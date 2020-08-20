@@ -4,6 +4,7 @@ Created on Wed Aug 19 19:21:35 2020
 
 @author: acer
 """
+#used basic concepts of list and while loop and boolean conditionals to build it
 import os
 import pyttsx3
 decision = False
