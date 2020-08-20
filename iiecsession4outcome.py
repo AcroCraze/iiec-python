@@ -9,7 +9,7 @@ import pyttsx3
 decision = False
 
 pyttsx3.speak("Hello there! welcome")
-#these have correctors which can pe spelling,typing or pronounciation related
+#these have correctors which can be spelling,typing or pronounciation related
 start=["start","open","launch","run","execute","play",
        "rnu","rin","eun","ran","sthart","stert","strt",
        "stort","strat","atart","stret","dtart","syart",
